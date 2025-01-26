@@ -18,7 +18,7 @@ Build a simulation of a real or imagined entity or environment.
 Experiment with random walks and/or particle systems in your sketch.
 
 
-Current sketch:
+Current sketch: https://melissss4.github.io/Workshop-7/ 
 
 
 Watching this workshop I really liked how the movement of the objects were a little bit like a computer mouse painting. I wondered if this would make an interesting background. I wanted to merge this with my previous workshop task and make this the background of my poem generator. 
