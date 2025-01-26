@@ -4,6 +4,15 @@ Notes from workshop:
 “An object is like a container”
 Can contain functions. It is a way to organise code.
 
+
+How to code random moving objects on screen:
+
+![Screen Shot 2025-01-26 at 7 43 28 PM](https://github.com/user-attachments/assets/d63b38ce-3427-4f27-9ed2-320c92567713)
+
+![Screen Shot 2025-01-26 at 7 43 41 PM](https://github.com/user-attachments/assets/432b58b3-9dd2-48d2-9019-c3f62ba7aa2b)
+
+
+
 Objective:
 Build a simulation of a real or imagined entity or environment.
 Experiment with random walks and/or particle systems in your sketch.
