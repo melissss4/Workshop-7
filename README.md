@@ -2,7 +2,7 @@
 
 Notes from workshop:
 “An object is like a container”
-Can contain functions. It is a way to organise code.
+Can contain functions. It is a way to organise code. 
 
 
 How to code random moving objects on screen:
