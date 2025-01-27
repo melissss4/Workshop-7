@@ -27,4 +27,11 @@ I added back in the slider functions, and was able to change the background that
 
 Of course I would like to give credit to David who I forked the previous workshop from his week 4 workshop. 
 
+I realised after a while I did not add the Rita database back into my code after I took it out last workshop, so I added that back in and it worked.
+
+![Screen Shot 2025-01-27 at 5 16 53 PM](https://github.com/user-attachments/assets/02d2a4fb-682a-4c3e-9281-baec0cdb5d9d)
+
+![Screen Shot 2025-01-27 at 5 28 24 PM](https://github.com/user-attachments/assets/5a65cde7-a0a1-48ef-82df-8d94a3e14f7f)
+
+
 
