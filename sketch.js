@@ -136,15 +136,18 @@ function draw() {
 function newLine() {
   userLine = userInput.value();
   userInput.value('');
-  let words = userLine.split(' '); 
+  let words = RiTa.tokenize(userLine); 
   let r = floor(random(0, words.length));
-  let rhymes = []; 
+  let rhymes = RiTa.rhymesSync(words[r]); 
+  RiTa.rhymesSync
   if (rhymes.length === 0) {
+    print("No rhyme found");
     poem.push(userLine);
-  } else {
+  } 
+ else {
     let changedWord = random(rhymes);
     words[r] = changedWord;
-    userLine = words.join(' ');
+    userLine = RiTa.untokenize(words);
     poem.push(userLine);
   }
 }
